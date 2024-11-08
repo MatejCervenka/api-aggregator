@@ -11,6 +11,6 @@ List of available APIs:
 
 <h2>C4c</h2>
 <ul>
-  <li>wa-tomas.nejdenic.xyz/api/about</li>
-  <li>wa-ben.nejdenic.xyz/api/about</li>
+  <li>https://wa-tomas.nejdenic.xyz/api/about</li>
+  <li>https://wa-ben.nejdenic.xyz/api/about</li>
 </ul>
