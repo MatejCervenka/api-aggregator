@@ -8,6 +8,7 @@ List of available APIs:
   <li>http://18.199.167.118:8080/api/about/</li>
   <li>http://3.69.152.41/api/about</li>
   <li>http://52.58.163.44/</li>
+  <li>http://3.79.97.169/</li>
 </ul>
 
 <h2>C4c</h2>
