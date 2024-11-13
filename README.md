@@ -15,6 +15,7 @@ List of available APIs:
 <ul>
   <li>https://wa-tomas.nejdenic.xyz/api/about</li>
   <li>https://wa-ben.nejdenic.xyz/api/about</li>
+  <li>https://s-cervenka.dev.spsejecna.net/api/about</li>
 </ul>
 
 <h2>C4a</h2>
